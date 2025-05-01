@@ -7,12 +7,21 @@
 </h1>
 
 
-<h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Windows Server</h2>
 <ul>
-  <li>
-    <a href="https://github.com/RashadHagen/Server-Manager-Add-Install-Roles-and-Featues/tree/main">
-      <strong style="font-family: Arial, sans-serif; font-size: 16px;">Server Manager - Add / Install Roles and Features</strong>
-    </a>
-     <br/> <br/>
-  </li>
+<li>
+  <a href="https://github.com/RashadHagen/Server-Manager-Add-Install-Roles-and-Featues/tree/main">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Server Manager - Add / Install Roles and Features</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Server-Manager-Add-Install-Roles-and-Featues/tree/main">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Server Manager - Add / Install Roles and Features</strong>
+  </a>
+  <br/><br/>
+</li>
 </ul>
